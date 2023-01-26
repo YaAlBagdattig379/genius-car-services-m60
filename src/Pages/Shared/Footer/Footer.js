@@ -3,8 +3,8 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <footer>
-           <p><small>copy write @2023</small></p> 
+        <footer className='footer-container'>
+           <p><small>copywrite@2023</small></p> 
         </footer>
     );
 };
